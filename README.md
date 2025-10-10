@@ -3,7 +3,7 @@
 # Exploring the Myth of Shorter Lifespan of Left-Handed People
 
 **Authors / Contributors:**  
-Aashna
+Aashna,
 Pratiksha 
 
 ---
@@ -14,14 +14,19 @@ This project investigates the long-standing claim that **left-handed people die 
 
 ---
 
-## 🎯 Objectives
-
-- Reconstruct how the prevalence of left-handedness varies with age and birth cohort  
-- Model the true probability of left-handedness by birth year using Bayesian inference  
-- Combine those prevalence estimates with actual death distributions to simulate expected age-at-death  
-- Show that the observed “lifespan gap” can arise from cohort / reporting bias alone  
-- Quantify uncertainty and perform sensitivity analyses  
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)]()
+[![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)]()
 
 ---
 
+## 🎯 Objectives
+
+- 📊 Analyze handedness prevalence across age groups and birth cohorts  
+- 🧮 Model the true probability of left-handedness by birth year using Bayesian methods  
+- 🔢 Combine modeled prevalence with real mortality data to simulate expected age-at-death  
+- 🧠 Demonstrate that the lifespan gap can be reproduced **without any true mortality difference**  
+- 📈 Visualize and interpret cohort effects clearly
+
+---
 
