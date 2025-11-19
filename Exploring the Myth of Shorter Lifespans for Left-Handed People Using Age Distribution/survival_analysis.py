@@ -10,6 +10,7 @@ from lifelines.statistics import logrank_test
 
 df = pd.read_csv("datasets/iris.csv")
 
+
 # Create synthetic “handedness-like” binary group using species
 df['group'] = (df['species'] == 'virginica').astype(int)
 
